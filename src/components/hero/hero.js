@@ -44,10 +44,12 @@ const Hero = () => {
             <NavLink to="/">Facebook</NavLink>
           </li>
           <li>
-            <NavLink to="/">Twitter</NavLink>
+            <NavLink to="https://github.com/Manas1255">Github</NavLink>
           </li>
           <li>
-            <NavLink to="/">Instagram</NavLink>
+            <NavLink to="https://www.linkedin.com/in/muhammad-anas-akhtar-9454931b2/">
+              LinkedIn
+            </NavLink>
           </li>
         </ul>
       </div>
