@@ -21,17 +21,17 @@ const About = (props) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="tf-about-text">
                 <small>about Me</small>
-                <h2>Welcome to Tonu, Best Software Services</h2>
+                <h2>Overview</h2>
                 <h5>
                   I have 8+ years of experiences in Software Development for
                   give you better services.
                 </h5>
                 <p>
-                  A wonderful serenity has taken possession of my entire soul,
-                  like these sweet mornings of spring which I enjoy with my
-                  whole heart. I am alone, and feel the charm of existence in
-                  this spot, which was created for the bliss of souls like mine.
-                  I am so happy, my dear friend, so absorbed in the exquisite{" "}
+                  Specializing in mobile app development, I create seamless and
+                  high-performing applications for both iOS and Android
+                  platforms. With expertise in React Native and Flutter, I
+                  leverage these cutting-edge technologies to deliver versatile
+                  and efficient cross-platform solutions.{" "}
                 </p>
 
                 <div className="tf-funfact">
