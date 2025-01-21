@@ -23,8 +23,9 @@ const About = (props) => {
                 <small>about Me</small>
                 <h2>Overview</h2>
                 <h5>
-                  I have 8+ years of experiences in Software Development for
-                  give you better services.
+                  I have extensive experience in application development,
+                  delivering high-quality and customized solutions to meet your
+                  needs.
                 </h5>
                 <p>
                   Specializing in mobile app development, I create seamless and

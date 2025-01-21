@@ -108,7 +108,7 @@ const ProjectSingle = ({
                         <ReactFancyBox thumbnail={pImg} image={pImg} />
                       </div>
                     </div>
-                    <div className="tp-project-single-item list-widget">
+                    {/* <div className="tp-project-single-item list-widget">
                       <div className="row">
                         <div className="col-lg-6">
                           <div className="tp-project-single-title">
@@ -152,8 +152,8 @@ const ProjectSingle = ({
                           </div>
                         </div>
                       </div>
-                    </div>
-                    <div className="tp-project-single-item">
+                    </div> */}
+                    {/* <div className="tp-project-single-item">
                       <div className="tp-project-single-title">
                         <h3>Our approach</h3>
                       </div>
@@ -169,7 +169,7 @@ const ProjectSingle = ({
                         scelerisque molestie ultrices. Eu, fusce vulputate diam
                         interdum morbi ac a.
                       </p>
-                    </div>
+                    </div> */}
                     <div className="tp-project-single-gallery">
                       <div className="row mt-4">
                         <div className="col-md-6 col-sm-6 col-12">
@@ -184,7 +184,7 @@ const ProjectSingle = ({
                         </div>
                       </div>
                     </div>
-                    <div className="tp-project-single-item list-widget">
+                    {/* <div className="tp-project-single-item list-widget">
                       <div className="row">
                         <div className="col-lg-6">
                           <div className="tp-project-single-title">
@@ -227,7 +227,7 @@ const ProjectSingle = ({
                           </ul>
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                     {/* <RelatedProject /> */}
                     <div className="tp-project-single-item">
                       <div className="tp-project-contact-area">
