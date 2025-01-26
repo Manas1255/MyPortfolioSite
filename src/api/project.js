@@ -1,18 +1,23 @@
 import pimg1 from "../images/project/img-1.jpg";
-import pimg4 from "../images/project/img-4.jpg";
-import pimg5 from "../images/project/img-5.jpg";
-import pimg6 from "../images/project/img-6.jpg";
 
 import ps1img1 from "../images/project-single/1.jpg";
-import ps1img4 from "../images/project-single/6.jpg";
-import ps1img5 from "../images/project-single/7.jpg";
-import ps1img6 from "../images/project-single/8.jpg";
 
 import psub1img1 from "../images/project-single/2.jpg";
 import psub1img2 from "../images/project-single/3.jpg";
 
 import signsense from "../images/my-projects/sign-sense.jpeg";
 import walletwise from "../images/my-projects/wallet-wise.jpeg";
+
+import caristan1 from "../images/my-projects/caristan/caristan-1.jpeg";
+import caristan2 from "../images/my-projects/caristan/caristan-2.jpeg";
+import caristan from "../images/my-projects/caristan/caristan.jpeg";
+
+import aurora1 from "../images/my-projects/aurora/aurora-1.jpeg";
+import aurora from "../images/my-projects/aurora/aurora.jpeg";
+
+import optimize1 from "../images/my-projects/optimize/optimize-1.jpeg";
+import optimize2 from "../images/my-projects/optimize/optimize-2.jpeg";
+import optimize from "../images/my-projects/optimize/optimize.jpeg";
 
 const Projects = [
   {
@@ -50,31 +55,33 @@ const Projects = [
   },
   {
     Id: "4",
-    pImg: pimg4,
-    ps1img: ps1img4,
-    psub1img1: psub1img1,
+    pImg: caristan,
+    ps1img: caristan1,
+    psub1img1: caristan2,
     psub1img2: psub1img2,
-    title: "Marketing Website Design",
+    title: "Caristan",
     subTitle: "App Development",
-    description: "",
+    description:
+      "A feature-rich e-commerce application integrating the Stripe Payment Gateway, RESTful APIs, advanced map integration for location-based services, and real-time push notifications for an enhanced user experience.",
   },
   {
     Id: "4",
-    pImg: pimg5,
-    ps1img: ps1img5,
+    pImg: aurora,
+    ps1img: aurora1,
     psub1img1: psub1img1,
     psub1img2: psub1img2,
-    title: "Charity Website Design",
-    subTitle: "Web Design",
-    description: "",
+    title: "Aurora",
+    subTitle: "App Development",
+    description:
+      "An AI-powered fortune-telling chat application leveraging Firebase for backend support, RevenueCat for subscription management, local storage for seamless offline functionality, and full localization for a global audience.",
   },
   {
     Id: "5",
-    pImg: pimg6,
-    ps1img: ps1img6,
-    psub1img1: psub1img1,
+    pImg: optimize,
+    ps1img: optimize1,
+    psub1img1: optimize2,
     psub1img2: psub1img2,
-    title: "Ecommarce Website Design",
+    title: "Optimize",
     subTitle: "App Development",
     description: "",
   },

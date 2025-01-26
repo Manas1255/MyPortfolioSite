@@ -2,7 +2,6 @@ import React, { Fragment } from "react";
 import { Element } from "react-scroll";
 import About from "../../components/about/about";
 import BackToTop from "../../components/backToTop/backToTop";
-import BlogSection from "../../components/BlogSection/BlogSection";
 import ContactArea from "../../components/ContactArea";
 import Footer from "../../components/footer/Footer";
 import Hero from "../../components/hero/hero";
@@ -29,9 +28,9 @@ const HomePage = () => {
         <ProjectSection />
       </Element>
       {/* <Testimonial /> */}
-      <Element name="blog">
+      {/* <Element name="blog">
         <BlogSection />
-      </Element>
+      </Element> */}
       {/* <Pricing /> */}
       <Element name="contact">
         <ContactArea />
